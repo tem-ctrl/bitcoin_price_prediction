@@ -1,2 +1,3 @@
 # Forecasting Bitcoin Price Evolution
-Forecast bitcoin price with SARIMAX
+Forecast bitcoin price with ARIMA
+
