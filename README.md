@@ -1,2 +1,2 @@
-# bitcoin_price_prediction
+# Forecasting Bitcoin Price Evolution
 Forecast bitcoin price with SARIMAX
